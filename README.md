@@ -1,1 +1,1 @@
-Python application managing a library with Tkinter GUI and layered architecture.
+Python application managing a library with OOP, Console UI, Tkinter GUI and layered architecture.
